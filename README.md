@@ -5,11 +5,11 @@ web.artikel
 
 <img width="768" height="1240" alt="faisal jpg" src="https://github.com/user-attachments/assets/d8272aad-7312-4bf3-9a7f-527e8adee01b" />
 <img width="736" height="736" alt="FAÇA VENDAS COM A NOSSA IA DIVULGADORA" src="https://github.com/user-attachments/assets/e155e6c3-0329-43aa-ae11-b71123ba883a" />
-[drama.html](https://github.com/user-attachments/files/27693597/drama.html)
+
 <img width="275" height="183" alt="download" src="https://github.com/user-attachments/assets/dda8b912-3484-4130-ab77-492531cae195" />
 <img width="1086" height="1536" alt="Can-This-Love-Be-Translated-1086x1536" src="https://github.com/user-attachments/assets/9efbce2a-6803-4399-a4b9-c981dcbac2da" />
 <img width="736" height="981" alt="baek songmin _ @mayay____y" src="https://github.com/user-attachments/assets/8fbeeeaf-5d0f-4739-bc02-12e3d7c1c725" />
-[ai.html](https://github.com/user-attachments/files/27693594/ai.html)
+
 <img width="1086" height="1536" alt="6" src="https://github.com/user-attachments/assets/9e050fe4-c3ab-4c21-818f-0d900f8825dd" />
 <img width="1086" height="1536" alt="5" src="https://github.com/user-attachments/assets/4a6423f1-78d2-4b46-a8ab-45cdb20a08d5" />
 <img width="566" height="800" alt="4" src="https://github.com/user-attachments/assets/90d19f95-527a-4531-9bdb-7e576f33a4ca" />
