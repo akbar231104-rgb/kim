@@ -1,11 +1,8 @@
 # kim
 web.artikel
+![alt text](<img width="1086" height="1536" alt="No-Tail-To-Tell-1086x1536" src="https://github.com/user-attachments/assets/a0611066-f9df-4aa3-8ecf-67660fa2cf18" />?raw=true)
 
-<img width="1086" height="1536" alt="No-Tail-To-Tell-1086x1536" src="https://github.com/user-attachments/assets/a0611066-f9df-4aa3-8ecf-67660fa2cf18" />
 
-[stayle.css](https://github.com/user-attachments/files/27693587/stayle.css)<img width="700" height="700" alt="moon-river-1763699433690_11" src="https://github.com/user-attachments/assets/14f4869a-a271-493f-a998-84e10e9ba533" />
-[index.html](https://github.com/user-attachments/files/27693603/index.html)
-[fashion.html](https://github.com/user-attachments/files/27693601/fashion.html)
 <img width="768" height="1240" alt="faisal jpg" src="https://github.com/user-attachments/assets/d8272aad-7312-4bf3-9a7f-527e8adee01b" />
 <img width="736" height="736" alt="FAÇA VENDAS COM A NOSSA IA DIVULGADORA" src="https://github.com/user-attachments/assets/e155e6c3-0329-43aa-ae11-b71123ba883a" />
 [drama.html](https://github.com/user-attachments/files/27693597/drama.html)
